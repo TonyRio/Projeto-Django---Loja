@@ -1,0 +1,2 @@
+# Projeto Django - Loja
+ projetos
